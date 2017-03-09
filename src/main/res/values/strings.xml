@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SantaRosaApp</string>
+    <string name="Titulo">Titulo</string>
+    <string name="Username">Username</string>
+    <string name="Iniciar">Iniciar</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="SantaRosa">Santa de Cabal</string>
+    <string name="SantaRosaa">Santa rosa de cabal</string>
+    <string name="SantaRos">SANTA ROSA DE CABAL</string>
+    <string name="Password">Password</string>
+    <string name="registro">Registro</string>
+    <string name="nombreUsuario">Nombre de Usuario</string>
+    <string name="repetir">Repetir contrasena</string>
+    <string name="correo">Correo electronico</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="contrasena">Contrasena</string>
+    <string name="Perfil">Perfil</string>
+    <string name="CerrarS">Cerrar Sesion</string>
+    <string name="tituloSplash">SANTA ROSA DE CABAL</string>
+    <string name="usuario">Informacion del usuario</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragm2">Fragmento 2</string>
+    <string name="fragm1">Fragmento 1</string>
+    <string name="title_activity_hoteles">hotelesActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="paraiso">Ven a disfrutar de este paraiso</string>
+    <string name="comida">A probar la mejor comida</string>
+    <string name="gente">Y a compartir con las mejores personas</string>
+    <string name="main">Principal</string>
+</resources>
